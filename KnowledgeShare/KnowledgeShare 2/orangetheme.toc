@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.07pt}
+\beamer@sectionintoc {1}{ \scshape Introduction}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Our Team}{2}{0}{1}
+\beamer@sectionintoc {2}{ \scshape Pynamite}{9}{0}{2}
+\beamer@sectionintoc {3}{ \scshape Geist}{16}{0}{3}
+\beamer@subsectionintoc {3}{1}{Geist explained}{16}{0}{3}
+\beamer@subsectionintoc {3}{2}{Learning Geist}{17}{0}{3}
